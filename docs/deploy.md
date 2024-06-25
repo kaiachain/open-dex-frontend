@@ -1,8 +1,8 @@
-# Klaytn-DEX Deployment Guide
+# Kaia-DEX Deployment Guide
 
 ## Prerequisites 
 
-To build Klaytn-DEX, you need Node.js v16 and PNPM v7 installed:
+To build Kaia-DEX, you need Node.js v16 and PNPM v7 installed:
 
 - Install Node.js v16.
 
@@ -66,7 +66,7 @@ For more details about env variables and modes please consult [Vite documentatio
    pnpm i
    ```
 
-2. Build Klaytn-DEX:
+2. Build Kaia-DEX:
 
    ```bash
    pnpm build
@@ -101,7 +101,7 @@ The following steps install dependencies, run checks, and then build the app:
    pnpm test
    ```
 
-5. Build Klaytn-DEX:
+5. Build Kaia-DEX:
 
    ```bash
    pnpm build

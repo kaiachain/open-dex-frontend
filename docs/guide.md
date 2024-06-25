@@ -1,10 +1,10 @@
-# Klaytn-DEX User Guide <!-- omit in toc -->
+# Kaia-DEX User Guide <!-- omit in toc -->
 
-With the help of this guide, you will learn how to use the Klaytn-DEX to perform all available actions on the blockchain, such as connect your wallet, swap tokens, farm and stake LP tokens, and so on. We will start by introducing the basic concepts used throughout the guide, and then walk you through all available functionality.
+With the help of this guide, you will learn how to use the Kaia-DEX to perform all available actions on the blockchain, such as connect your wallet, swap tokens, farm and stake LP tokens, and so on. We will start by introducing the basic concepts used throughout the guide, and then walk you through all available functionality.
 
 ## Introduction <!-- omit in toc -->
 
-Klaytn-DEX works with ERC-20 or KIP7 tokens. 
+Kaia-DEX works with ERC-20 or KIP7 tokens. 
 
 ### Token Swap
 Token swaps in Dex are a simple way to trade one ERC-20 or KIP7 token for another. Each pair of tokens on Dex is underpinned by a liquidity pool.
@@ -15,7 +15,7 @@ Liquidity pools are smart contracts that hold balances of two unique tokens and 
 
 ## Available Operations <!-- omit in toc -->
 
-The guide covers the following operations available on Klaytn-DEX:
+The guide covers the following operations available on Kaia-DEX:
 
 - [Connect Wallet](#connect-wallet)
 - [Swap](#swap)
@@ -65,11 +65,11 @@ The first thing you need to do is to connect your wallet to DEX. DEX works with 
    ![](./img/connect/connect-wallet.png)
 
 2. Choose a wallet to connect to DEX.
-   If you haven't already, add the Klaytn Baobab Testnet to your wallet:
-   - **Network Name**: Klaytn Testnet
-   - **New RPC URL**: https://api.baobab.klaytn.net:8651
+   If you haven't already, add the Kaia Kairos Testnet to your wallet:
+   - **Network Name**: Kaia Testnet
+   - **New RPC URL**: https://public-en.kairos.node.kaia.io
    - **Chain ID**: 1001
-   - **Currency Symbol**: KLAY
+   - **Currency Symbol**: KAIA
    - **Block Explorer URL**: https://baobab.scope.klaytn.com
 
 3. Agree to conditions and confirm that you trust the website:
