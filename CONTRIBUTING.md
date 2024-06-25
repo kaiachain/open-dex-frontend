@@ -1,8 +1,8 @@
 # Contributing Guidelines
 
-Thank you for your interest in contributing to Klaytn Organization. As an open source project, Klaytn Organization is always open to the developer community and we welcome your contribution to help more developer onboarding resources for the Klaytn developer community. Please read the guideline below and follow it in all interactions with the project.
+Thank you for your interest in contributing to Kaia Organization. As an open source project, Kaia Organization is always open to the developer community and we welcome your contribution to help more developer onboarding resources for the Kaia developer community. Please read the guideline below and follow it in all interactions with the project.
 
-## How to Contribute on Klaytn 
+## How to Contribute on Kaia 
 
 1. Read this [contributing document](./CONTRIBUTING.md).
 2. Sign [Contributor Licensing Agreement (CLA)](#contributor-license-agreement-cla).
@@ -22,24 +22,24 @@ There are various ways to contribute and participate. Please read the guidelines
 
 ### Issues and Bugs
 
-If you find a bug or other issues in Klaytn, please [submit an issue](https://github.com/klaytn/klaytn-dex-frontend/issues). Before submitting an issue, please invest some extra time to figure out that:
+If you find a bug or other issues in Kaia, please [submit an issue](https://github.com/kaiachain/open-dex-frontend/issues). Before submitting an issue, please invest some extra time to figure out that:
 
 - The issue is not a duplicate issue.
-- The issue has not been fixed in the latest release of klaytn-dex-frontend.
-Please do not use the issue tracker for personal support requests. Use developer@klaytn.foundation for the personal support requests.
+- The issue has not been fixed in the latest release of open-dex-frontend.
+Please do not use the issue tracker for personal support requests. Use developer@kaia.io for the personal support requests.
 
 When you report a bug, please make sure that your report has the following information.
 - Steps to reproduce the issue.
 - A clear and complete description of the issue.
 - Code and/or screen captures are highly recommended.
 
-After confirming your report meets the above criteria, [submit the issue](https://github.com/klaytn/klaytn-dex-frontend/issues). Please use [labels](#usage-of-labels) to categorize your issue.
+After confirming your report meets the above criteria, [submit the issue](https://github.com/kaiachain/open-dex-frontend/issues). Please use [labels](#usage-of-labels) to categorize your issue.
 
 ### Feature Requests
 
-You can also use the [issue tracker](https://github.com/klaytn/klaytn-dex-frontend/issues) to request a new feature or enhancement. Note that any code contribution without an issue link will not be accepted. 
+You can also use the [issue tracker](https://github.com/kaiachain/open-dex-frontend/issues) to request a new feature or enhancement. Note that any code contribution without an issue link will not be accepted. 
 
-Please submit an issue explaining your proposal first so that the Klaytn developer community can fully understand and discuss the idea. Please use [labels](#usage-of-labels) for your feature request as well.
+Please submit an issue explaining your proposal first so that the Kaia developer community can fully understand and discuss the idea. Please use [labels](#usage-of-labels) for your feature request as well.
 
 #### Usage of Labels
 
@@ -93,6 +93,6 @@ Formatting errors can be easily fixed by running `pnpm format:fix`.
 
 ## Contributor License Agreement (CLA)
 
-Keep in mind when you submit your pull request, you'll need to read the [CLA](https://gist.github.com/e78f99e1c527225637e269cff1bc7e49) document and sign by posting "I have read the CLA Document and I hereby sign the CLA" in the comment of PR for legal purposes. You will have to sign the CLA just one time, either as an individual or corporation.
+Keep in mind when you submit your pull request, you'll need to read the [CLA](https://gist.github.com/kaiachain-dev/bbf65cc330275c057463c4c94ce787a6) document and sign by posting "I have read the CLA Document and I hereby sign the CLA" in the comment of PR for legal purposes. You will have to sign the CLA just one time, either as an individual or corporation.
 
 You will be prompted to sign the agreement by CLA Assistant (bot) when you open a Pull Request for the first time.

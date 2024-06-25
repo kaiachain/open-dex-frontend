@@ -1,14 +1,14 @@
-# Klaytn-DEX Frontend Specification
+# Kaia-DEX Frontend Specification
 
-This specification provides the detailed description of Klaytn-DEX frontend. First, we describe the tools that were used for Klaytn-DEX frontend. Then, we provide an overview of its structure and modules. For the instructions on how to deploy Klaytn-DEX, refer to [Klaytn-DEX Deployment Guide](./deploy.md).
+This specification provides the detailed description of Kaia-DEX frontend. First, we describe the tools that were used for Kaia-DEX frontend. Then, we provide an overview of its structure and modules. For the instructions on how to deploy Kaia-DEX, refer to [Kaia-DEX Deployment Guide](./deploy.md).
 
-For the detailed specification of the Dex smart contracts, refer to [Klaytn-DEX Specification](https://github.com/klaytn/klaytn-dex-contracts/blob/dev/docs/dex-specification.md).
+For the detailed specification of the Dex smart contracts, refer to [Kaia-DEX Specification](https://github.com/kaiachain/open-dex-contracts/blob/dev/docs/dex-specification.md).
 
-Check [Klaytn-DEX User Guide](guide.md) for instructions on working with the Klaytn-DEX from the user side.
+Check [Kaia-DEX User Guide](guide.md) for instructions on working with the Kaia-DEX from the user side.
 
 ## Frontend Tech Stack
 
-Frontend tools that were used for Klaytn-DEX frontend:
+Frontend tools that were used for Kaia-DEX frontend:
 
 |                      |                         Tool                         |
 | :------------------: | :--------------------------------------------------: |
@@ -33,7 +33,7 @@ Frontend tools that were used for Klaytn-DEX frontend:
 | `plugins`     | Custom user plugin system.                                                                                                                                             |
 | `types`       | Common types.                                                                                                                                                          |
 | `styles`      | Global styles. The `styles/vars.sass` file contains global variables used throughout the app.                                                                          |
-| `query`       | Queries for Klaytn-DEX subgraph.                                                                                                                                       |
+| `query`       | Queries for Kaia-DEX subgraph.                                                                                                                                       |
 | `utils`       | Various utility functions.                                                                                                                                             |
 
 ### Core
@@ -42,7 +42,7 @@ The `core` contains:
 
 - domain logic
 - classes for working with Kaikas and Metamask wallets via `caver` and `ethers` providers.
-- ABI (application binary interface) for Klaytn-DEX smart contracts and their methods
+- ABI (application binary interface) for Kaia-DEX smart contracts and their methods
 
 ### Modules
 
